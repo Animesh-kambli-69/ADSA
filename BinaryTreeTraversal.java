@@ -1,4 +1,5 @@
 // Binary tree node class
+
 class Node {
     int data;
     Node left, right;
@@ -48,11 +49,6 @@ public class BinaryTreeTraversal {
         BinaryTreeTraversal tree = new BinaryTreeTraversal();
 
         // Manually creating a simple binary tree
-        //        1
-        //       / \
-        //      2   3
-        //     / \
-        //    4   5
         tree.root = new Node(1);
         tree.root.left = new Node(2);
         tree.root.right = new Node(3);
@@ -72,4 +68,5 @@ public class BinaryTreeTraversal {
         System.out.println();
     }
 }
+
 
