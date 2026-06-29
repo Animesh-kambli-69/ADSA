@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Animesh-kambli-69/ADSA/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Animesh-kambli-69/ADSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Animesh-kambli-69/ADSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Animesh-kambli-69/ADSA/tree/master/0014-longest-common-prefix) |
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Animesh-kambli-69/ADSA/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Animesh-kambli-69/ADSA/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Animesh-kambli-69/ADSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
