@@ -10,6 +10,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Animesh-kambli-69/ADSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Animesh-kambli-69/ADSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Animesh-kambli-69/ADSA/tree/master/0013-roman-to-integer) |
 ## String
